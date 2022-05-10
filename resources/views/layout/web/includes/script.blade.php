@@ -8,7 +8,7 @@
 
 <!-- jtv-jtv-mobile-menu js -->
 <script type="text/javascript" src="{{ asset('web/js/jtv-mobile-menu.js') }}"></script>
-
+<script src="{{ asset('js/app.js') }}"></script>
 <!-- countdown js -->
 <script type="text/javascript" src="{{ asset('web/js/countdown.js') }}"></script>
 
