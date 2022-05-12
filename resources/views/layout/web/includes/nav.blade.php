@@ -7,14 +7,14 @@
         <!-- BEGIN NAV -->
         <ul id="nav" class="hidden-xs">
           <li class="drop-menu"><a href="index.html" class="level-top active"><span>Home</span></a>
-            <ul>
+            {{-- <ul>
               <li><a href="index.html">BigStart - Handbag</a></li>
         <li><a href="https://htmlbigstart.justthemevalley.com/Version2/index.html">BigStart - Fashion</a></li>
         <li><a href="https://htmlbigstart.justthemevalley.com/Version3/index.html">BigStart - Handbag V2</a></li>
-            </ul>
+            </ul> --}}
           </li>
-          <li class="drop-menu"> <a href="#"> <span>Pages</span> </a>
-            <ul>
+          <li class="drop-menu"> <a href="#"> <span>Product  cathegory</span> </a>
+            {{-- <ul>
               <li class="sub-cat"><a href="shop_grid.html"><span>Shop Grid</span></a>
                 <ul>
                   <li> <a href="shop_grid_right.html"> <span>Shop Grid Right Sidebar</span> </a> </li>
@@ -33,10 +33,10 @@
               <li><a href="compare.html"><span>Compare</span></a> </li>
               <li><a href="quick_view.html"><span>Quick View</span></a> </li>
               <li><a href="404error.html"><span>404 Error Page</span></a> </li>
-            </ul>
+            </ul> --}}
           </li>
           <li class="mega-menu"> <a class="level-top" href="shop_grid.html"><span>Clutches</span></a>
-            <div class="jtv-menu-block-wrapper">
+            {{-- <div class="jtv-menu-block-wrapper">
               <div class="jtv-menu-block-wrapper2">
                 <div class="nav-block jtv-nav-block-center">
                   <div class="col-1">
@@ -96,10 +96,10 @@
                   </div>
                 </div>
               </div>
-            </div>
+            </div> --}}
           </li>
           <li class="mega-menu"> <a class="level-top" href="shop_grid.html"><span>Handbags</span></a>
-            <div class="jtv-menu-block-wrapper">
+            {{-- <div class="jtv-menu-block-wrapper">
               <div class="jtv-menu-block-wrapper2">
                 <div class="nav-block jtv-nav-block-center">
                   <ul class="level0">
@@ -165,10 +165,10 @@
                   </div>
                 </div>
               </div>
-            </div>
+            </div> --}}
           </li>
           <li class="mega-menu"> <a class="level-top" href="shop_grid.html"><span>Laptop bags</span></a>
-            <div class="jtv-menu-block-wrapper">
+            {{-- <div class="jtv-menu-block-wrapper">
               <div class="jtv-menu-block-wrapper2">
                 <div class="nav-block jtv-nav-block-center">
                   <ul class="level0">
@@ -223,10 +223,10 @@
                   </ul>
                 </div>
               </div>
-            </div>
+            </div> --}}
           </li>
           <li class="mega-menu"> <a class="level-top" href="shop_grid.html"><span>Luggage</span></a>
-            <div class="jtv-menu-block-wrapper">
+            {{-- <div class="jtv-menu-block-wrapper">
               <div class="jtv-menu-block-wrapper2">
                 <div class="nav-block jtv-nav-block-center jtv-menu-box-left">
                   <ul class="level0">
@@ -266,11 +266,11 @@
                 </div>
                 <div class="nav-block nav-block-right std jtv-menu-box-right"><img src="images/menu-img5.jpg" alt="menu img"> </div>
               </div>
-            </div>
+            </div> --}}
           </li>
           <li class="mega-menu"> <a class="level-top" href="blog.html"><span>Blog</span></a> </li>
           <li class="nav-custom-link mega-menu"> <a href="#" class="level-top"> <span>Buy this theme</span> </a>
-            <div class="jtv-menu-block-wrapper custom-menu">
+            {{-- <div class="jtv-menu-block-wrapper custom-menu">
               <div class="header-nav-dropdown-wrapper">
                 <div class="jtv-custom-box"> <i class="fa fa-laptop"></i>
                   <h4 class="heading">100% Responsive Design</h4>
@@ -288,7 +288,7 @@
                   <h4 class="heading">2 Layout Home Pages</h4>
                   <p>Duis aute irure dolor in reprehenderit in voluptate velit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
                 </div>
-              </div>
+              </div> --}}
             </div>
           </li>
         </ul>
